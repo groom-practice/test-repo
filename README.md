@@ -8,3 +8,4 @@ rebase test
 저는 탁구를 칩니다.
 저는 잘 먹습니다.
 squash test in my branch
+저는 신유승입니다.

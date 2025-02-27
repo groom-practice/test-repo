@@ -1,3 +1,1 @@
-rebase test
-안녕하세요
-김소연입니다.
+squash test

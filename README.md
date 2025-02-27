@@ -7,3 +7,4 @@ rebase test
 리베이스는 어렵습니다.
 저는 탁구를 칩니다.
 저는 잘 먹습니다.
+squash test in my branch

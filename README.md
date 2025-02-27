@@ -1,2 +1,1 @@
-rebase test
-안녕하세요
+squash test in my branch

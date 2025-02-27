@@ -1,1 +1,1 @@
-rebase test
+squash test in my branch

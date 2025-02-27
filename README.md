@@ -1,2 +1,1 @@
-# test-repo
-git practice repo
+Practice makes perfect

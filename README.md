@@ -1,4 +1,3 @@
 rebase test
-rebase test branch
-rebase test branch
-rebase test branch2
+안녕하세요
+저는 김승범입니다.

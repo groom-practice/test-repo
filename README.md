@@ -1,6 +1,1 @@
-# test-repo
-
-git practice repo
-
-먕아름
-testbranch에서 적음욤
+coco cocoro 양아름 브랜치 충돌 테스트

@@ -1,3 +1,2 @@
 # test-repo
-git practice repo
-하유희
+새로운 코드를 작성합니다.
